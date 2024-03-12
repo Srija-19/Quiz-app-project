@@ -1,1 +1,1 @@
-# Quiz-app-project
+# QuizMaster - Interactive Webapp
