@@ -1,1 +1,1 @@
-# QuizMaster - Interactive Webapp
+# QuizMaster - Interactive Quiz App
